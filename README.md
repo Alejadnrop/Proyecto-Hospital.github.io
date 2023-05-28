@@ -1,2 +1,3 @@
-# proyecto-veterinaria
-Proyecto veterinaria
+# proyecto-hospital
+Grupo #3 
+Diego Quintero
